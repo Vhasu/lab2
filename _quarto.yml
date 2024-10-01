@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Vaibhav Hasu"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - introduction.qmd
+      - Interests.qmd
+      - Contact.qmd
+
+
+format:
+  html:
+    theme: cosmo
+    mainfont: times new roman
+    fontsize: 1.5rem
+    css: styles.css
+    toc: true
+
+
+

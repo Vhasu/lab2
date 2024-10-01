@@ -1,0 +1,16 @@
+---
+title: "Contact"
+about: 
+  template: jolla
+  links: 
+    - icon: envelop-at-fill
+      text: email
+      href: Vhasu@gmu.edu
+    - icon: githib
+      text: Github
+      href: https://github.com/Vhasu
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/vaibhav-hasu-3260a1310
+---
+contact me through the links provided 

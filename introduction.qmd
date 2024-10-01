@@ -1,0 +1,6 @@
+---
+title: "Introduction"
+editor: visual
+---
+
+My name is Vaibhav Hasu, but please feel free to call me Vic. I am currently a graduate student pursuing a Master of Science in Data Analytics Engineering at George Mason University. I have a Bachelor’s degree in Computer Science Engineering from CVR College of Engineering in Hyderabad, India. My UG degree was completed in July 2024. At Mason I aim to build my analytical skills and elevate my competence with tools like R, Python, SQL, Tableau and cloud services like AWS. My goal is to specialize in Health Data Analytics as I continue to advance my career. I have experience with various computing environments such as Linux that I use for data analysis tasks, Windows that I use for programming and database management and AWS at an intermediate level for managing databases and running ML models. I have a solid foundation in data analytics principles from my IBM certification (IBM Data Analytics). Finally, I don’t have any concerns as of now specially regarding the course and will seek for help if needed.
